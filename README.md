@@ -1,4 +1,5 @@
 # 安师大教务系统验证码检测
+首发于我的[个人博客](https://hyacm.com/acai/dl/35/capt/)
 
 ### Notes：
 
